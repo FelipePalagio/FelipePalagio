@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá, Eu sou [Seu Nome]!
 
-<!--
-**FelipePalagio/FelipePalagio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Sobre Mim
+- 🌱 Atualmente, estou estudando **Cibersegurança**.
+- 💻 Sou entusiasta de **desenvolvimento de jogos** usando a engine Ursina.
+- 🎸 Amo tocar guitarra e estou sempre explorando novas formas de emular sons no meu computador.
+- 📚 Além disso, tenho interesse em programação Python, Linux e segurança da informação.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias & Ferramentas
+- **Linguagens:** Python, Bash, HTML/CSS, JavaScript
+- **Ferramentas:** Ursina, Flask, Conky, Git, Linux Mint
+- **Outras:** Configuração de ambientes Linux, criação de scripts de automação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&langs_count=8&theme=radical)
+
+## 🔧 Projetos Recentes
+- **[Nome do Projeto 1](URL do Projeto):** Descrição breve do projeto.
+- **[Nome do Projeto 2](URL do Projeto):** Descrição breve do projeto.
+- **[Nome do Projeto 3](URL do Projeto):** Descrição breve do projeto.
+
+## 📫 Como me encontrar
+- [LinkedIn](URL do seu LinkedIn)
+- [Email](mailto:seuemail@dominio.com)
+- [Website](URL do seu website)
+
+## ⚡ Curiosidades
+- 🎮 Sou apaixonado por jogos e estou criando um jogo no Ursina.
+- 🔒 Dedico boa parte do meu tempo livre estudando técnicas de cibersegurança.
+- 🎸 Estou sempre experimentando novos sons na guitarra e buscando maneiras de integrá-los ao meu workflow digital.
+
+---
+
+⭐️ **Sinta-se à vontade para explorar meus repositórios e contribuir com ideias e melhorias!**
