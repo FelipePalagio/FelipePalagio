@@ -1,7 +1,6 @@
 # 👋 Olá
 
 - 💻 Sou entusiasta de **desenvolvimento de jogos** usando a engine Ursina.
-- 🎸 Amo tocar guitarra e estou sempre explorando novas formas de emular sons no meu computador.
 - 📚 Além disso, tenho interesse em programação Python, Linux e segurança da informação.
 
 ## 🚀 Tecnologias & Ferramentas
@@ -10,8 +9,8 @@
 - **Outras:** Configuração de ambientes Linux, criação de scripts de automação
 
 ## 📊 Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePalagio&layout=compact&langs_count=8&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePalagio&layout=pie&theme=radical)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipePalagio&show_icons=true&theme=radical)
 
 
 ## 📫 Como me encontrar
