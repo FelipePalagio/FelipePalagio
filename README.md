@@ -1,5 +1,5 @@
 # 👋 Olá
-
+- 📚 Trabalho com programação cnc. 
 - 💻 Sou entusiasta de **desenvolvimento de jogos** usando a engine Ursina.
 - 📚 Além disso, tenho interesse em programação Python, Linux e segurança da informação.
 
