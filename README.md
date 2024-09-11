@@ -4,7 +4,7 @@
 - 📚 Além disso, tenho interesse em programação Python, Linux e segurança da informação.
 
 ## 🚀 Tecnologias & Ferramentas
-- **Linguagens:** Python, HTML/CSS, JavaScript
+- **Linguagens:** Python, HTML/CSS, JavaScript, Java
 - **Ferramentas:** Ursina, Flask, Conky, Git, Linux Mint
 - **Outras:** Configuração de ambientes Linux, criação de scripts de automação
 
