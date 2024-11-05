@@ -5,8 +5,8 @@
 
 ## 🚀 Tecnologias & Ferramentas
 - **Linguagens:** Python, HTML/CSS, JavaScript, Java
-- **Ferramentas:** Ursina, Flask, Conky, Git, Linux Mint
-- **Outras:** Configuração de ambientes Linux, criação de scripts de automação
+- **Ferramentas:** Ursina, Flask, Conky, Git, Linux 
+
 
 ## 📊 Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePalagio&layout=pie&theme=radical)
