@@ -1,6 +1,6 @@
 # 👋 Olá
 - 📚 Trabalho com programação cnc. 
-- 💻 Sou entusiasta de **desenvolvimento de jogos** usando a engine Ursina.
+- 💻 Sou entusiasta de **desenvolvimento de jogos** usando as engines Godot e Ursina.
 - 📚 Além disso, tenho interesse em programação Python, Linux e segurança da informação.
 
 ## 🚀 Tecnologias & Ferramentas
