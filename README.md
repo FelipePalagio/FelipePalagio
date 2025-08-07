@@ -1,12 +1,3 @@
-# 👋 Olá
-- 📚 Trabalho com programação cnc. 
-- 💻 Sou entusiasta de **desenvolvimento de jogos** usando as engines Godot e Ursina.
-- 📚 Além disso, tenho interesse em programação Python, Linux e segurança da informação.
-
-## 🚀 Tecnologias & Ferramentas
-- **Linguagens:** Python, HTML/CSS, JavaScript, Java
-- **Ferramentas:** Ursina, Flask, Conky, Git, Linux 
-
 
 ## 📊 Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePalagio&layout=pie&theme=radical)
