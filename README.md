@@ -1,6 +1,6 @@
 
 ## .
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePalagio&layout=pie&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePalaagio&layout=pie&theme=radical)
 
 
 
