@@ -1,6 +1,6 @@
 
-## ...
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePalagio&layout=pie&theme=radical)
+## The world is full of power and energy and a person can go far by just skimming off a tiny bit of it
+
 
 
 
